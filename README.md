@@ -7,3 +7,7 @@
   - http://devdocs.io/#q={query}
 - Can I Use
   - http://caniuse.com/#search={query}
+- NPM
+  - https://www.npmjs.com/search?q={query}
+- APM
+  - https://atom.io/packages/search?q={query}
