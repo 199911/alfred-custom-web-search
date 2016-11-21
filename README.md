@@ -11,3 +11,5 @@
   - https://www.npmjs.com/search?q={query}
 - APM
   - https://atom.io/packages/search?q={query}
+- MDN
+  - https://developer.mozilla.org/en-US/search?q={query}
