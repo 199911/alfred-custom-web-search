@@ -13,3 +13,5 @@
   - https://atom.io/packages/search?q={query}
 - MDN
   - https://developer.mozilla.org/en-US/search?q={query}
+- Software Engineering Daily
+  - https://softwareengineeringdaily.com/category/podcast/
