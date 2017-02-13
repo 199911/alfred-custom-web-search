@@ -25,6 +25,9 @@ To share the import the custom web search, you only need to click the link and l
 - MDN
     - Keyword: mdn
     - Share url: alfred://customsearch/MDN/mdn/utf8/nospace/https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fsearch%3Fq%3D%7Bquery%7D
+- Lodash 4
+    - Keyword: lodash
+    - Share url: alfred://customsearch/Lodash%204/lodash/utf8/nospace/http%3A%2F%2Fdevdocs.io%2Flodash~4%2F%23q%3D%7Bquery%7D
 
 ## Contribution
 
